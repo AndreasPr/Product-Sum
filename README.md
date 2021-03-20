@@ -1,3 +1,3 @@
-# Product-Sum
+# Product-Sum-Algorithm
 
 Implementation in Java
